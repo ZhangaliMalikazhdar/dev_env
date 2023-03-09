@@ -6,3 +6,4 @@ vim
 htop
 btop
 
+youcompleteme/python
